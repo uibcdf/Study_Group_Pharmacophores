@@ -7,7 +7,9 @@ Some rules to be all on the same page:
 
 - Papers will be named with a key string made up of the first author's family name, the
   publication year, and the first word of the title. For instance, the paper entitled "Why me?"
-written by John Doe and published in 2020 will be referred to hereinafter as 'Doe2020Why'.
+written by John Doe and published in 2020 will be referred to hereinafter as 'Doe2020Why'. In case
+there are more than a paper with the same surname, year and first word of the title, the first
+page number will be added at the end: 'Doe2020Why66'.
 
 - The papers' list found in the file 'HISTORY.md' is a tentative guide. Week by week the file has
   to be updated to keep track of the real reading record.
