@@ -1,7 +1,7 @@
 # Study Group
 
 The goal is reading, word by word, more than 60 papers in three
-months about construction and use of 3D pharmacophores from molecular simulations.
+months about modeling and using 3D pharmacophores from molecular simulations.
 
 Some rules to be all on the same page:
 
