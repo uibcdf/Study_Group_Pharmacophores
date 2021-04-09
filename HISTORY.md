@@ -110,6 +110,8 @@
 
 ## 7th week
 
+- [Evangelista2019Ensemble] Evangelista Falcon, Wilfredo, Sally R. Ellingson, Jeremy C. Smith, and Jerome Baudry. "Ensemble docking in drug discovery: how many protein configurations from molecular dynamics simulations are needed to reproduce known ligand binding?." The Journal of Physical Chemistry B 123, no. 25 (2019): 5189-5195.
+
 - [Durairaj2019Functional] Durairaj, Pradeepraj, Linbing Fan, David Machalz, Gerhard Wolber, and Matthias Bureik. "Functional characterization and mechanistic modeling of the human cytochrome P450 enzyme CYP4A22." FEBS letters 593, no. 16 (2019): 2214-2225.
 
 - [Du2020Importance] Du, Wei, David Machalz, Qi Yan, Erik J. Sorensen, Gerhard Wolber, and Matthias Bureik. "Importance of asparagine-381 and arginine-487 for substrate recognition in CYP4Z1." Biochemical pharmacology 174 (2020): 113850.
