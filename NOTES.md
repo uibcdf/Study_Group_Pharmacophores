@@ -7,5 +7,20 @@ It also gives a review of the thermodynamics of binding and different methods to
 
 Keywords: Virtual screening, docking, ligand-based, binding free energy.
 
+## Yang2010Pharmacophore
+
+Explains the pharmacophore concept and gives a short review of ligand-based, structured-based,
+and virtual screening models as well as pharmacophore based de novo design.
+
+Keywords: pharmacophore, ligand-based, structured-based, virtual screening, de novo design.
+
+## Schaller2020Next
+
+Some application case studies of pharmacophores. Explains shortly different approaches to integrate molecular dynamics
+into pharmacophore models. It also briefly covers machine learning methods that are being used for pharmacophore design.
+Contains a table of available software for pharmacophore modeling.
+
+Keywords: 3D pharmacophore, molecular dynamics, machine learning, case studies, software.
+
 
 Tags: Review
