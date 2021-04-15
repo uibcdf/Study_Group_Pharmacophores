@@ -36,5 +36,12 @@ and influenza, metabolic syndrome inhibitors and Alzheimer inhibitors.
 
 Keywords: virtual screening, inhibitors, pharmacophore applications
 
+## Carlson2002Protein
+
+Neglecting protein flexibility causes errors in computational models. The article discusses the basic theory behind protein and
+small molecule interactions as well as methods to include protein flexibility.
+
+Keywords: protein flexibility, conformational states, multiple protein structures.
+
 
 Tags: Review
