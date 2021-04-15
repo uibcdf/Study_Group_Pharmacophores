@@ -22,5 +22,19 @@ Contains a table of available software for pharmacophore modeling.
 
 Keywords: 3D pharmacophore, molecular dynamics, machine learning, case studies, software.
 
+## Khedkar2007Pharmacophore
+
+Overview of pharmacophore models. Describes the process of virtual screening from end to end.
+Introduces the fingerprint concept as well as some applications of pharmacophores. Mentions some of the algorithms and software that are currently being used.
+
+Keywords: fingerprints, pharmacophore generation, databases, algorithms
+
+## Kim2012Pharmacophore
+
+Different applications of pharmacophores including cancer inhibitors, antiviral inhibitors like HIV
+and influenza, metabolic syndrome inhibitors and Alzheimer inhibitors.
+
+Keywords: virtual screening, inhibitors, pharmacophore applications
+
 
 Tags: Review
