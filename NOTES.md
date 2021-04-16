@@ -43,5 +43,12 @@ small molecule interactions as well as methods to include protein flexibility.
 
 Keywords: protein flexibility, conformational states, multiple protein structures.
 
+## Guner2014Setting
+
+A pharmacophore is not a real molecule but a purely abstract concept that accounts for the common molecular interactions of a group of compounds.
+Article discusses the origins of the pharmacophore concept and who was the first person to ever use it.
+
+Keywords: pharmacophore concept, history
+
 
 Tags: Review
