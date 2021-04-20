@@ -2,13 +2,13 @@
 
 ## 1st week
 
-Cournia2020Rigorous_a6
-Yang2010Pharmacophore_j3
-Schaller2020Next_w8
-Khedkar2007Pharmacophore_11
-Kim2012Pharmacophore_w8
-Carlson2002Protein_s1
-Guner2014Setting_c3
+Cournia2020Rigorous_a6    
+Yang2010Pharmacophore_j3     
+Schaller2020Next_w8     
+Khedkar2007Pharmacophore_11    
+Kim2012Pharmacophore_w8     
+Carlson2002Protein_s1     
+Guner2014Setting_c3     
 
 ## 2nd week
 
