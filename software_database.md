@@ -5,8 +5,8 @@ with, pharmacophore models. The table includes these next features for each soft
 
 |   Property | Letters  | When |
 |---|---|---|
-|  Open Source |  OS | If the code is available and with open source standards |
-|  Free |  FR | If the software is free to be used. Or at least there is a non-commercial or academic license |
+| Open Source | OS | If the code is available and with open source standards |
+| Free |  FR | If the software is free to be used. Or at least there is a non-commercial or academic license |
 | Proprietary | PR | If the software is non-free, copyrighted, and runs under commercial licenses |
 | Pythonic | PY | The software is open source in Python, or there is an API in Python implemented |
 | Multi-structures | MS | If the software provides the possibility to play explicitly with different structures of the same compound or receptor |
@@ -17,11 +17,13 @@ with, pharmacophore models. The table includes these next features for each soft
 
 The software table:
 
-| Name | References | Links | OS | FR | PR | PY | MS | MD | VS | DN |
-|---|---|---|---|---|---|---|---|---|---|---|
-|Foo|||||||||||
+| Name | References | Links           | OS | FR | PR | PY | MS | MD | VS | DN |
+|---   |---         |---              |--- |--- |--- |--- |--- |--- |--- |--- |
+| FLAP |            | [web][FLAP web] | N  |    | Y  |    |    |    | Y  |    |
 
 
 
+
+[FLAP web]: https://www.moldiscovery.com/software/flap/ "FLAP 2.2 & WaterFLAP"
 
 
