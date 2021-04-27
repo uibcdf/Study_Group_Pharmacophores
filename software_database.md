@@ -19,15 +19,18 @@ The software table:
 
 | Name         | References | Links            | OS | FR | PR | PY | MS | MD | VS | DN | Comments |
 | :--------    | :--------- | :--------------- | :-:| :-:| :-:| :-:| :-:| :-:| :-:| :-:| :------- |
-| FLAPpharm    | [Cross2012GRID_cd][Cross2012GRID_cd] [Cross2012GRID_cn][Cross2012GRID_cn] [Baroni2007A_ce][Baroni2007A_ce] | [web][FLAP web] | N  |    | Y  |    |    |    | Y  |    |    |
+| FLAPpharm (FLAP)   | [Cross2012GRID_cd][Cross2012GRID_cd] [Cross2012GRID_cn][Cross2012GRID_cn] [Baroni2007A_ce][Baroni2007A_ce] | [web][FLAP web] | N  |    | Y  |    |    |    | Y  |    |    |
 | LigandScout  | [Wolber2005LigandScout_ce][Wolber2005LigandScout_ce] [Wolber2006Efficient_s7][Wolber2006Efficient_s7] | [web][LigandScout web] |    |    | Y  |    |    |    | Y  |    |    |
 | MOE          |            | [web][MOE web]   |    |    | Y  |    |    |    | Y  |    |          |
-| Phase        | [Dixon2006PHASE_jx][Dixon2006PHASE_jx] [Dixon2006PHASE_s6][Dixon2006PHASE_s6] | [web][Phase web] |    |    | Y  |    |    |    | Y  |    | Schrödinger |
+| Phase (Schrödinger)       | [Dixon2006PHASE_jx][Dixon2006PHASE_jx] [Dixon2006PHASE_s6][Dixon2006PHASE_s6] | [web][Phase web] |    |    | Y  |    |    |    | Y  |    |   |
 | Align-it     | [Taminau2008Pharao][Taminau2008Pharao] | [web][Align-it web] | Y  | Y  |    | Y  |    |    |    |    | Old Pharao |
-| Forge        | [Cheeseright20006Molecular_cs][Cheeseright20006Molecular_cs] | [web][Forge web] |    |    | Y  |    |    |    |    |    | FieldTemplater component of Forge |
-| Dynophores   | [Thesis:Sydow2015][Thesis:Sydow2015] | [web][Dynophores web] [source][Dynophores GitHub] | Y  | Y  |    | Y  |    | Y  |    |    | In progress |
+| FieldTemplater (Forge) | [Cheeseright2006Molecular_cs][Cheeseright2006Molecular_cs] | [web][Forge web] |    |    | Y  |    |    |    |    |    |   |
+| Dynophores   | [Thesis:Sydow2015][Thesis:Sydow2015] | [web][Dynophores web] [source][Dynophores GitHub] | Y  | Y  |    | Y  |    | Y  |    |    |   |
+| HipHop (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Dough1996Identification_cr][Dough1996Identification_cr] | [web][Catalyst web]     |    |    | Y  |    | Y? |    | Y  |    | Now in BioviaDiscovery Studio |
+| HipoGen (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Li2000HypoGen][Li2000HypoGen] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
+| HipoRefine (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Maynard2004HypoRefine][Maynard2004HypoRefine] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
+|                  |        |                  |    |    |    |    |    |    |    |    |          |
 
- 
 [FLAP web]: https://www.moldiscovery.com/software/flap/ "FLAP 2.2 & WaterFLAP"
 [Cross2012GRID_cd]: https://doi.org/10.1021/ci300153d "Cross, Simon, Massimo Baroni, Laura Goracci, and Gabriele Cruciani. “GRID-Based Three-Dimensional Pharmacophores I: FLAPpharm, a Novel Approach for Pharmacophore Elucidation.” Journal of Chemical Information and Modeling 52, no. 10 (2012): 2587–98."
 [Cross2012GRID_cn]: https://doi.org/10.1021/ci300154n "Cross, Simon, Francesco Ortuso, Massimo Baroni, Giosuè Costa, Simona Distinto, Federica Moraca, Stefano Alcaro, and Gabriele Cruciani. “GRID-Based Three-Dimensional Pharmacophores II: PharmBench, a Benchmark Data Set for Evaluating Pharmacophore Elucidation Methods.” Journal of Chemical Information and Modeling 52, no. 10 (2012): 2599–2608."
@@ -46,4 +49,11 @@ The software table:
 [Dynophores web]: https://dynophores.readthedocs.io/en/latest/ "Dynophores' Read the docs"
 [Dynophores GitHub]: https://github.com/dominiquesydow/dynophores "Dynophores' GitHub"
 [Thesis:Sydow2015]: https://doi.org/10.18452/14267 "Dominique Sydow.'Dynophores: Novel Dynamic Pharmacophores'. 2015"
+[Catalyst web]: https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-discovery-studio/pharmacophore/ "Biovia Discovery Studio"
+[Kurogi2001Pharmacophore_01]: https://doi.org/10.2174/0929867013372481 "Kurogi, Yasuhisa, and Osman Guner. “Pharmacophore Modeling and Three-Dimensional Database Searching for Drug Design Using Catalyst.” Current Medicinal Chemistry 8, no. 9 (2001): 1035–55."
+[Doug1996Identification_cr]: https://doi.org/10.1021/ci950273r "Barnum, Doug, Jonathan Greene, Andrew Smellie, and Peter Sprague. “Identification of Common Functional Configurations Among Molecules.” Journal of Chemical Information and Computer Sciences 36, no. 3 (1996): 563–71."
+[Guner2004Pharmacophore_06]: https://doi.org/10.2174/0929867043364036 "Guner, Osman, Omoshile Clement, and Yasuhisa Kurogi. “Pharmacophore Modeling and Three Dimensional Database Searching for Drug Design Using Catalyst: Recent Advances.” Current Medicinal Chemistry 11, no. 22 (2004): 2991–3005."
+[Maynard2004HypoRefine]: - "Maynard, AJ, M Waldman, and J Sutter. “Hyporefine: Automated Identification of Exclusion Volumes in Pharmacophore Models.” In ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY, 227:U686--U686, 2004."
+[Li2000HypoGen]: - "Li, H, J Sutter, and R Hoffmann. “HypoGen: An Automated System for Generating 3D Predictive Pharmacophore Models.” Pharmacophore Perception, Development, and Use in Drug Design 2 (2000): 171."
+
 
