@@ -26,7 +26,7 @@ The software table:
 | Align-it     | [Taminau2008Pharao][Taminau2008Pharao] | [web][Align-it web] | Y  | Y  |    | Y  |    |    |    |    | Old Pharao |
 | FieldTemplater (Forge) | [Cheeseright2006Molecular_cs][Cheeseright2006Molecular_cs] | [web][Forge web] |    |    | Y  |    |    |    |    |    |   |
 | Dynophores   | [Thesis:Sydow2015][Thesis:Sydow2015] | [web][Dynophores web] [source][Dynophores GitHub] | Y  | Y  |    | Y  |    | Y  |    |    |   |
-| HipHop (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Dough1996Identification_cr][Dough1996Identification_cr] | [web][Catalyst web]     |    |    | Y  |    | Y? |    | Y  |    | Now in BioviaDiscovery Studio |
+| HipHop (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Doug1996Identification_cr][Doug1996Identification_cr] | [web][Catalyst web]     |    |    | Y  |    | Y? |    | Y  |    | Now in BioviaDiscovery Studio |
 | HipoGen (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Li2000HypoGen][Li2000HypoGen] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
 | HipoRefine (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Maynard2004HypoRefine][Maynard2004HypoRefine] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
 | PharmaGist    | [Schneidman2008PharmaGist][Schneidman2008PharmaGist]  |  [web][PharmaGist web]  |    |  Y  |    |    |    |    |    |    | Web app |
