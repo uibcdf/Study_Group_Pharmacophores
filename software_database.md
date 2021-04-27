@@ -29,13 +29,14 @@ The software table:
 | HipHop (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Dough1996Identification_cr][Dough1996Identification_cr] | [web][Catalyst web]     |    |    | Y  |    | Y? |    | Y  |    | Now in BioviaDiscovery Studio |
 | HipoGen (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Li2000HypoGen][Li2000HypoGen] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
 | HipoRefine (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Maynard2004HypoRefine][Maynard2004HypoRefine] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
-|                  |        |                  |    |    |    |    |    |    |    |    |          |
+| PharmaGist    | [Schneidman2008PharmaGist][Schneidman2008PharmaGist]  |  [web][PharmaGist web]  |    |  Y  |    |    |    |    |    |    | Web app |
 
 [FLAP web]: https://www.moldiscovery.com/software/flap/ "FLAP 2.2 & WaterFLAP"
 [Cross2012GRID_cd]: https://doi.org/10.1021/ci300153d "Cross, Simon, Massimo Baroni, Laura Goracci, and Gabriele Cruciani. “GRID-Based Three-Dimensional Pharmacophores I: FLAPpharm, a Novel Approach for Pharmacophore Elucidation.” Journal of Chemical Information and Modeling 52, no. 10 (2012): 2587–98."
 [Cross2012GRID_cn]: https://doi.org/10.1021/ci300154n "Cross, Simon, Francesco Ortuso, Massimo Baroni, Giosuè Costa, Simona Distinto, Federica Moraca, Stefano Alcaro, and Gabriele Cruciani. “GRID-Based Three-Dimensional Pharmacophores II: PharmBench, a Benchmark Data Set for Evaluating Pharmacophore Elucidation Methods.” Journal of Chemical Information and Modeling 52, no. 10 (2012): 2599–2608."
 [Baroni2007A_ce]: https://doi.org/10.1021/ci600253e "Baroni, Massimo, Gabriele Cruciani, Simone Sciabola, Francesca Perruccio, and Jonathan S Mason. “A Common Reference Framework for Analyzing/Comparing Proteins and Ligands. Fingerprints for Ligands And Proteins (FLAP): Theory and Application.” Journal of Chemical Information and Modeling 47, no. 2 (2007): 279–94."
 [LigandScout web]: http://www.inteligand.com/ "Inte:Ligand"
+[PharmaGist web]: https://bioinfo3d.cs.tau.ac.il/PharmaGist/php.php "PharmaGist webserver"
 [Wolber2005LigandScout_ce]: https://doi.org/10.1021/ci049885e "Wolber, Gerhard, and Thierry Langer. “LigandScout:  3-D Pharmacophores Derived from Protein-Bound Ligands and Their Use as Virtual Screening Filters.” Journal of Chemical Information and Modeling 45, no. 1 (2005): 160–69."
 [Wolber2006Efficient_s7]: https://doi.org/10.1007/s10822-006-9078-7 "Wolber, Gerhard, Alois A. Dornhofer, and Thierry Langer. “Efficient Overlay of Small Organic Molecules Using 3D Pharmacophores.” Journal of Computer-Aided Molecular Design 20, no. 12 (2006): 773–88."
 [MOE web]: https://www.chemcomp.com/index.htm "Chemical Computing Group"
@@ -55,5 +56,4 @@ The software table:
 [Guner2004Pharmacophore_06]: https://doi.org/10.2174/0929867043364036 "Guner, Osman, Omoshile Clement, and Yasuhisa Kurogi. “Pharmacophore Modeling and Three Dimensional Database Searching for Drug Design Using Catalyst: Recent Advances.” Current Medicinal Chemistry 11, no. 22 (2004): 2991–3005."
 [Maynard2004HypoRefine]: - "Maynard, AJ, M Waldman, and J Sutter. “Hyporefine: Automated Identification of Exclusion Volumes in Pharmacophore Models.” In ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY, 227:U686--U686, 2004."
 [Li2000HypoGen]: - "Li, H, J Sutter, and R Hoffmann. “HypoGen: An Automated System for Generating 3D Predictive Pharmacophore Models.” Pharmacophore Perception, Development, and Use in Drug Design 2 (2000): 171."
-
-
+[Schneidman2008PharmaGist]: https://doi.org/10.1093/nar/gkn187 "Dina Schneidman-Duhovny, Oranit Dror, Yuval Inbar, Ruth Nussinov, Haim J. Wolfson, PharmaGist: a webserver for ligand-based pharmacophore detection, Nucleic Acids Research, Volume 36, Issue suppl_2, 1 July 2008, Pages W223–W228"
