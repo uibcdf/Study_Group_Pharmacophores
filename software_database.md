@@ -30,6 +30,8 @@ The software table:
 | HipoGen (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Li2000HypoGen][Li2000HypoGen] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
 | HipoRefine (Catalyst)| [Kurogi2001Pharmacophore_01][Kurogi2001Pharmacophore_01] [Guner2004Pharmacophore_06][Guner2004Pharmacophore_06] [Maynard2004HypoRefine][Maynard2004HypoRefine] | [web][Catalyst web]     |    |    | Y  |    |    |    | Y  |    | Now in BioviaDiscovery Studio |
 | PharmaGist    | [Schneidman2008PharmaGist][Schneidman2008PharmaGist]  |  [web][PharmaGist web]  |    |  Y  |    |    |    |    |    |    | Web app |
+| e-Pharmacophores | [Gaurav2014Structure_j5] | [web][e-Pharmacophores web] |  |  | Y |  |  |  |  |  |  |
+| Pocket  | [Gaurav2014Structure_j5] | [web][Pocket web] |  | Y |  |  |  |  |  |  | Online version available as well as download |
 
 [FLAP web]: https://www.moldiscovery.com/software/flap/ "FLAP 2.2 & WaterFLAP"
 [Cross2012GRID_cd]: https://doi.org/10.1021/ci300153d "Cross, Simon, Massimo Baroni, Laura Goracci, and Gabriele Cruciani. “GRID-Based Three-Dimensional Pharmacophores I: FLAPpharm, a Novel Approach for Pharmacophore Elucidation.” Journal of Chemical Information and Modeling 52, no. 10 (2012): 2587–98."
@@ -57,3 +59,6 @@ The software table:
 [Maynard2004HypoRefine]: - "Maynard, AJ, M Waldman, and J Sutter. “Hyporefine: Automated Identification of Exclusion Volumes in Pharmacophore Models.” In ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY, 227:U686--U686, 2004."
 [Li2000HypoGen]: - "Li, H, J Sutter, and R Hoffmann. “HypoGen: An Automated System for Generating 3D Predictive Pharmacophore Models.” Pharmacophore Perception, Development, and Use in Drug Design 2 (2000): 171."
 [Schneidman2008PharmaGist]: https://doi.org/10.1093/nar/gkn187 "Dina Schneidman-Duhovny, Oranit Dror, Yuval Inbar, Ruth Nussinov, Haim J. Wolfson, PharmaGist: a webserver for ligand-based pharmacophore detection, Nucleic Acids Research, Volume 36, Issue suppl_2, 1 July 2008, Pages W223–W228"
+[e-Pharmacophores web]: https://www.schrodinger.com/products/e-pharmacophores#:~:text=e%2DPharmacophores%20allow%20for%20excluded,ligand%20in%20the%20target%20receptor.
+[Pocket web]: http://www.pkumdl.cn:8080/pocketv2.html
+[Gaurav2014Structure_j5]: https://doi.org/10.2147/JRLCR.S46845 "Gaurav A, Gautam V. Structure-based three-dimensional pharmacophores as an alternative to traditional methodologies. Journal of Receptor, Ligand and Channel Research. 2014;7:27-38"
