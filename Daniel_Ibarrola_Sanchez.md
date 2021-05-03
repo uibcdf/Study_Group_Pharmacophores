@@ -2,14 +2,20 @@
 
 ## 1st week
 
-Cournia2020Rigorous_a6    
-Yang2010Pharmacophore_j3     
-Schaller2020Next_w8     
-Khedkar2007Pharmacophore_11    
-Kim2012Pharmacophore_w8     
-Carlson2002Protein_s1     
-Guner2014Setting_c3     
-
+- [Cournia2020Rigorous_a6] Cournia, Zoe, Bryce K. Allen, Thijs Beuming, David A. Pearlman, Brian K. Radak, and Woody Sherman. "Rigorous free energy simulations in virtual screening." Journal of Chemical Information and Modeling 60, no. 9 (2020): 4153-4169.
+￼
+￼- [Yang2010Pharmacophore_j3] Yang, Sheng-Yong. "Pharmacophore modeling and applications in drug discovery: challenges and recent advances." Drug discovery today 15, no. 11-12 (2010): 444-450.
+￼
+￼- [Schaller2020Next_w8] Schaller, David, Dora Šribar, Theresa Noonan, Lihua Deng, Trung Ngoc Nguyen, Szymon Pach, David Machalz, Marcel Bermudez, and Gerhard Wolber. "Next generation 3D pharmacophore modeling." Wiley Interdisciplinary Reviews: Computational Molecular Science 10, no. 4 (2020): e1468.
+￼
+￼- [Khedkar2007Pharmacophore_11] Khedkar, Santosh A., Alpeshkumar K. Malde, Evans C. Coutinho, and Sudha Srivastava. "Pharmacophore modeling in drug discovery and development: an overview." Medicinal Chemistry 3, no. 2 (2007): 187-197.
+￼
+￼- [Kim2012Pharmacophore_w8] Kim, Kyun-Hwan, Nam Doo Kim, and Baik-Lin Seong. "Pharmacophore-based virtual screening: a review of recent applications." Expert opinion on drug discovery 5, no. 3 (2010): 205-222.		
+￼
+￼- [Carlson2002Protein_s1] Carlson, Heather A. "Protein flexibility and drug design: how to hit a moving target." Current opinion in chemical biology 6, no. 4 (2002): 447-452.		
+￼
+￼- [Guner2014Setting_c3] Güner, O. F., & Bowen, J. P. (2014). Setting the record straight: the origin of the pharmacophore concept. Journal of chemical information and modeling, 54(5), 1269-1283.		
+￼
 ## 2nd week
 
 - [Leach2010Three] Leach, Andrew R., Valerie J. Gillet, Richard A. Lewis, and Robin Taylor. "Three-dimensional pharmacophore methods in drug discovery." Journal of medicinal chemistry 53, no. 2 (2010): 539-558.
@@ -23,8 +29,6 @@ Guner2014Setting_c3
 - [Perricone2018The] Perricone, Ugo, Marcus Wieder, Thomas Seidel, Thierry Langer, and Alessandro Padova. "The Use of Dynamic Pharmacophore in Computer-Aided Hit Discovery: A Case Study." In Rational Drug Design, pp. 317-333. Humana Press, New York, NY, 2018.
 
 - [Thesis:Michelarakis2019] Chicago Michelarakis, Nicholas. "Towards dynamic pharmacophore models through the use of coarse grained molecular dynamic simulations." PhD diss., University of Oxford, 2019.
-
-- ... Other papers added along the week
 
 ## 3rd week
 
@@ -41,8 +45,6 @@ Guner2014Setting_c3
 - [Dror2009Novel] Dror, Oranit, Dina Schneidman-Duhovny, Yuval Inbar, Ruth Nussinov, and Haim J. Wolfson. "Novel approach for efficient pharmacophore-based virtual screening: method and applications." Journal of chemical information and modeling 49, no. 10 (2009): 2333-2343.
 
 - [Gaurav2014Structure] Gaurav, Anand, and Vertika Gautam. "Structure-based three-dimensional pharmacophores as an alternative to traditional methodologies." Journal of Receptor, Ligand and Channel Research 7 (2014): 27-38.
-
-- ... Other papers added along the week
 
 ## 4th week
 
