@@ -114,3 +114,7 @@
 
 - ... Other papers added along the week
 
+## After all these papers Daniel added the following list:
+
+- [Figueras1996Ring_cp] Figueras, John. “Ring Perception Using Breadth-First Search.” Journal of Chemical Information and Computer Sciences 36, no. 5 (1996): 986–91. https://doi.org/10.1021/ci960013p.
+
