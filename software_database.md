@@ -32,6 +32,12 @@ The software table:
 | PharmaGist    | [Schneidman2008PharmaGist][Schneidman2008PharmaGist]  |  [web][PharmaGist web]  |    |  Y  |    |    |    |    |    |    | Web app |
 | e-Pharmacophores | [Gaurav2014Structure_j5] | [web][e-Pharmacophores web] |  |  | Y |  |  |  |  |  |  |
 | Pocket  | [Gaurav2014Structure_j5] | [web][Pocket web] |  | Y |  |  |  |  |  |  | Online version available as well as download |
+| Chemistry DevelopmentKit  | [VanDrie2010History] | [web][CDK web] | Y | Y |  |  |  |  |  |  | Java library |
+| PyRod  | [Schaller2021Exploiting] | [web][PyRod web] | Y | Y |  | Y |  | Y |  |  |  |
+| PharmMD  | [Polishchuk2019Virtual] | [web][PharmMD web] | Y | Y |  | Y |  | Y | Y |  |  |
+| Pmapper  | [Kutlushina2018Ligand] | [web][Pmapper web] | Y | Y |  | Y |  |  |  |  |  |
+| Pharmit  | [Sunseri2016Pharmit] | [web][Pharmit web] | Y | Y |  |  |  |  | Y |  |  |
+| ZincPharmer  | [Koes2012ZINCPharmer] | [web][ZincPharmer web] | Y | Y |  |  |  |  | Y |  |  |
 
 [FLAP web]: https://www.moldiscovery.com/software/flap/ "FLAP 2.2 & WaterFLAP"
 [Cross2012GRID_cd]: https://doi.org/10.1021/ci300153d "Cross, Simon, Massimo Baroni, Laura Goracci, and Gabriele Cruciani. “GRID-Based Three-Dimensional Pharmacophores I: FLAPpharm, a Novel Approach for Pharmacophore Elucidation.” Journal of Chemical Information and Modeling 52, no. 10 (2012): 2587–98."
@@ -62,3 +68,15 @@ The software table:
 [e-Pharmacophores web]: https://www.schrodinger.com/products/e-pharmacophores#:~:text=e%2DPharmacophores%20allow%20for%20excluded,ligand%20in%20the%20target%20receptor.
 [Pocket web]: http://www.pkumdl.cn:8080/pocketv2.html
 [Gaurav2014Structure_j5]: https://doi.org/10.2147/JRLCR.S46845 "Gaurav A, Gautam V. Structure-based three-dimensional pharmacophores as an alternative to traditional methodologies. Journal of Receptor, Ligand and Channel Research. 2014;7:27-38"
+[CDK web]: https://cdk.github.io/
+[VanDrie2010History]: 10.1016/j.ddtec.2010.12.002 "History of 3D pharmacophore searching: commercial, academic and open-source tools. Drug Discov Today Technol. 2010 Winter;7(4):e203-70. doi: 10.1016/j.ddtec.2010.12.002. PMID: 24103801"
+[Schaller2021Exploiting]: https://doi.org/10.1007/978-1-0716-1209-5_13 "Schaller, David, Szymon Pach, Marcel Bermudez, and Gerhard Wolber. Exploiting Water Dynamics for Pharmacophore Screening. Methods in Molecular Biology (Clifton, NJ) 2266 (2022): 227-238"
+[PyRod web]: https://github.com/schallerdavid/pyrod
+[Polishchuk2019Virtual]:  https://dx.doi.org/10.3390%2Fijms20235834 "Polishchuk, Pavel, Alina Kutlushina, Dayana Bashirova, Olena Mokshyna, and Timur Madzhidov. Virtual screening using pharmacophore models retrieved from molecular dynamic simulations. International journal of molecular sciences 20, no. 23 (2019): 5834"
+[PharmMD web]: https://github.com/ci-lab-cz/pharmd
+[Kutlushina2018Ligand]: https://doi.org/10.3390/molecules23123094 "Kutlushina, Alina, Aigul Khakimova, Timur Madzhidov, and Pavel Polishchuk. Ligand-based pharmacophore modeling using novel 3D pharmacophore signatures. Molecules 23, no. 12 (2018): 3094"
+[Pmapper web]: https://github.com/DrrDom/pmapper
+[Sunseri2016Pharmit]: https://doi.org/10.1093/nar/gkw287 "Pharmit: interactive exploration of chemical space. Nucleic acids research 44, no. W1 (2016): W442-W448"
+[Pharmit web]: http://pharmit.csb.pitt.edu/index.php
+[Koes2012ZINCPharmer]: https://doi.org/10.1093/nar/gks378 "Koes, David Ryan, and Carlos J. Camacho. ZINCPharmer: pharmacophore search of the ZINC database. Nucleic acids research 40, no. W1 (2012): W409-W414"
+[ZincPharmer web]: http://zincpharmer.csb.pitt.edu/
